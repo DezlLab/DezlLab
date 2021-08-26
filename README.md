@@ -2,7 +2,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DezlLab&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DezlLab&langs_count=10&theme=tokyonight)]()
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=178inaba&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
 <!--
 **DezlLab/DezlLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
